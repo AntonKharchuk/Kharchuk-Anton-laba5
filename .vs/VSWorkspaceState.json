@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProgaPruct4",
+    "\\ProgaPruct4\\ProgaPruct4"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\ProgaPruct4\\ProgaPruct4\\ClassShip.cs",
   "PreviewInSolutionExplorer": false
 }
