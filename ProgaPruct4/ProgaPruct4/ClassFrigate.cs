@@ -27,7 +27,10 @@ namespace ProgaPruct4
         {
             VoyageCount = val;
         }
+        public override string ToString()
+        {
+            return "Frigate: Speed = " + Speed;
+        }
 
-       
     }
 }
