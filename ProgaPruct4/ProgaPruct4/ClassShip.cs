@@ -24,6 +24,12 @@ namespace ProgaPruct4
             Speed = sp;
            
         }
+        public int GetSpeed()
+        {
+            return Speed;
+     
+
+        }
 
         abstract public void SetValue(int val);
         
