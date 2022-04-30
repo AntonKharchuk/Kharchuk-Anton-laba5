@@ -49,5 +49,10 @@ namespace ProgaPruct4
             }
         }
 
+        public override string ToString()
+        {
+            return "WarShip: Speed = " + Speed ;
+        }
+
     }
 }

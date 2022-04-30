@@ -47,6 +47,10 @@ namespace ProgaPruct4
 
             }
         }
+        public override string ToString()
+        {
+            return "AircraftCarrier: Speed = " + Speed;
+        }
 
     }
 }
